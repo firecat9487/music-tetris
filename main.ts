@@ -1,0 +1,7 @@
+music.playTone(20, music.beat(BeatFraction.Whole))
+music.playTone(27, music.beat(BeatFraction.Whole))
+music.playTone(28, music.beat(BeatFraction.Whole))
+music.playTone(30, music.beat(BeatFraction.Whole))
+music.playTone(28, music.beat(BeatFraction.Whole))
+music.playTone(27, music.beat(BeatFraction.Whole))
+music.playTone(25, music.beat(BeatFraction.Whole))
